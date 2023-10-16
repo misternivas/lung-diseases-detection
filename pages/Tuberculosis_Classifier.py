@@ -85,7 +85,7 @@ if x:
                 font-family: "Source Sans Pro", sans-serif;
             }
             </style>
-            <h1>It is Normal</h1>
+            <h1>It is Not Tuberculosis</h1>
             """
         )
     else:
